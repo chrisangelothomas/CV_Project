@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 46
+names: ['Aerosols', 'Aluminum can', 'Bar-Phone', 'Battery', 'Calculator', 'Camera', 'Cardboard', 'Christmas-Lights', 'Compact-Fluorescent-Lamps', 'Computer-Keyboard', 'Computer-Mouse', 'Desktop-PC', 'Drone', 'Flashlight', 'Flat-Panel-Monitor', 'Glass bottle', 'HDD', 'Hair-Dryer', 'Headphone', 'LED-Bulb', 'Laptop', 'Music-Player', 'Organic', 'PCB', 'Paper', 'Paper shavings', 'Papier mache', 'Plastic bag', 'Plastic bottle', 'Plastic containers', 'Plastic cup', 'Power-Adapter', 'Printing industry', 'Router', 'SSD', 'Smart-Watch', 'Smartphone', 'Smoke-Detector', 'Speaker', 'Straight-Tube-Fluorescent-Lamp', 'TV-Remote-Control', 'Table-Lamp', 'Telephone-Set', 'Textile', 'Tin', 'USB-Flash-Drive']
+
+roboflow:
+  workspace: iat360-cv-project
+  project: e-waste-vs-traditional-waste-hmq2a
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/iat360-cv-project/e-waste-vs-traditional-waste-hmq2a/dataset/1
