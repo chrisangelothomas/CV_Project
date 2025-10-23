@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /Users/christhomas/Developer/CV_Project/ewaste_vs_waste_dataset/train/images
+val: /Users/christhomas/Developer/CV_Project/ewaste_vs_waste_dataset/valid/images
+test: /Users/christhomas/Developer/CV_Project/ewaste_vs_waste_dataset/test/images
 
 nc: 46
 names: ['Aerosols', 'Aluminum can', 'Bar-Phone', 'Battery', 'Calculator', 'Camera', 'Cardboard', 'Christmas-Lights', 'Compact-Fluorescent-Lamps', 'Computer-Keyboard', 'Computer-Mouse', 'Desktop-PC', 'Drone', 'Flashlight', 'Flat-Panel-Monitor', 'Glass bottle', 'HDD', 'Hair-Dryer', 'Headphone', 'LED-Bulb', 'Laptop', 'Music-Player', 'Organic', 'PCB', 'Paper', 'Paper shavings', 'Papier mache', 'Plastic bag', 'Plastic bottle', 'Plastic containers', 'Plastic cup', 'Power-Adapter', 'Printing industry', 'Router', 'SSD', 'Smart-Watch', 'Smartphone', 'Smoke-Detector', 'Speaker', 'Straight-Tube-Fluorescent-Lamp', 'TV-Remote-Control', 'Table-Lamp', 'Telephone-Set', 'Textile', 'Tin', 'USB-Flash-Drive']
